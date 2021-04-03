@@ -1,0 +1,40 @@
+/* brand font */
+.navbar-brand{
+    font-size:2em;
+    font-weight: bold;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+/* change nav menu color */
+.navbar #menu .custom-nav .nav-item a{
+    color:#fff;
+}
+
+/* change nav menu hover color */
+.navbar #menu .custom-nav .nav-item a:hover{
+    color:#F0AAB1;
+}
+
+/* Banner Image */
+.bg-img{
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    min-height: 70vh;
+    border-radius:0px;
+    margin-top: 74px;
+}
+
+.resume-item{
+    margin-top: 15px;
+}
+
+
+
+
+
+
+
+
+/*  */
+
